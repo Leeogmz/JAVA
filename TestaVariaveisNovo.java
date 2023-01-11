@@ -1,4 +1,4 @@
-public class TestaVariaveis {
+public class TestaVariaveisNovo {
 	
 	public static void main (String[]args) {
 		System.out.println("Olá Novo Teste"); 
